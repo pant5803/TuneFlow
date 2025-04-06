@@ -1,4 +1,4 @@
-<h1 align="center">Realtime Spotify Application ✨</h1>
+<h1 align="center">Realtime Spotify Application </h1>
 
 -   🎸 Listen to music, play next and previous songs
 -   🔈 Update the volume with a slider
