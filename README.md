@@ -7,7 +7,7 @@
 -   👨🏼‍💼 Online/Offline status
 -   👀 See what other users are listening to in real-time
 -   📊 Aggregate data for the analytics page
--   🚀 And a lot more..
+-   🚀 And a lot more....
 
 ### Setup .env file in _backend_ folder
 
